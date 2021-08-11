@@ -1,0 +1,17 @@
+public class {
+	public void deodorization() {
+		탈취기능
+	}
+	public void DustAblation() {
+		먼지 제거 기능
+	}
+
+	public void drying() {
+		건조 기능
+	}
+
+	public void steam() {
+		스팀다림 기능
+	}
+
+}

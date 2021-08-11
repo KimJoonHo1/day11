@@ -1,0 +1,17 @@
+public clss Tv {
+	public void onOff() {
+		전원 켜기, 끄기
+	}
+	
+	public void setChannel(int channel) {
+		채널 변경
+		존재하지 않는 채널시에는 채널 변경 X
+		(채널 1~999)
+	}
+
+	public void setVolume(int volumeUpDown) {
+		매개변수가 1이면 볼륨을 1씩 증가, 매개변수가 -1이면 볼륨을 1씩 감소
+		만약 볼륨이 최저, 최고볼륨시 볼륨 증감을 하지 않음
+		(볼륨 1~99)
+	}
+}

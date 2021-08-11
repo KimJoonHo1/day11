@@ -1,0 +1,36 @@
+public class {
+	public void onOff() {
+		전원 켜기, 끄기
+	}
+
+	public void doorClose() {
+		세탁기 문 닫음
+	}
+
+	pubolic int setWeight(int weight) {
+		빨래의 무게를 구함
+	}
+
+	public setCos(int num) {
+		입력받은 값에 따라서 코스를 설정
+	}
+	public setDetergent(int detergent) {
+		사용자가 넣은 세제의 용량을 넣음	
+	}
+	
+	public void stop() {
+		일시정지
+	}
+
+	public void start() {
+		일시정지 종료하고 다시 시작
+	}
+
+	public void drying() {
+		빨래 건조
+	}
+
+	public void rinse() {
+		빨래 헹굼
+	}
+}
